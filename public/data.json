@@ -1,0 +1,12 @@
+[
+    ["work_year", "experience_level", "employment_type", "job_title"],
+    [2024, "MI", "FT", "Data Scientist"],
+    [2024, "MI", "FT", "Data Scientist"],
+    [2024, "MI", "CT", "Data Scientist"],
+    [2024, "MI", "CT", "Data Scientist"],
+    [2024, "MI", "FT", "Data Science Manager"],
+    [2024, "MI", "FT", "Data Science Manager"],
+    [2024, "SE", "FT", "Business Intelligence Engineer"],
+    [2024, "SE", "FT", "Business Intelligence Engineer"],
+    [2024, "SE", "FT", "Data Architect"]
+]
